@@ -1,4 +1,4 @@
-<h1>Ignews a JAMStack App</h1>
+<h1>Ignews, a JAMStack App</h1>
 <h3>Description</h3
 <p>Ignews is a blog that offers subscription content, blog posts are generated through Content Management System (CMS).
 
