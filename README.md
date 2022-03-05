@@ -13,6 +13,11 @@ The sale of subscriptions is integrated into the Stripe payment system API. The 
 <h3>How to use</h3
  <p> Press the code on terminal:</p>
  <p>❯ yarn dev</p>
+ 
+ <p>Use your github credentials to login session</p>
+ 
+ 
+ <p>Enjoy!!!  🎉</p>
 
 
 
