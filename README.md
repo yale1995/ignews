@@ -10,6 +10,21 @@ The sale of subscriptions is integrated into the Stripe payment system API. The 
 <li><a href='https://fauna.com/'>Fauna DB</a></li>
 </ul>
 
+<h3>Technologies</h3
+
+<p>The technologies used in the development of Ignews are described below. Other libraries can be found in the project's dependencies.</p>
+
+<ul> 
+<li>React JS</li>
+<li>Next JS</li>
+<li>TypeScript | JavaScript</li>
+<li>SASS</li>
+<li>CSS</li>
+<li>HTML</li>
+</ul>
+ 
+
+
 <h3>How to use</h3
  <p> Press the code on terminal:</p>
  <p>❯ yarn dev</p>
